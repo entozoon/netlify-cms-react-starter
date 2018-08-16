@@ -4,9 +4,9 @@ status: Featured / Published
 date: '2018-03-27'
 postFeaturedImage: /images/uploads/tim-marshall-155597.jpg
 excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
+  Etia445646m ac quam eget lectus venenatis ullamcorper sit amet non arcu.
+  Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque
+  lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
   - category: News
@@ -16,10 +16,9 @@ meta:
   noindex: false
   title: ''
 ---
-
 Paragraphs are separated by a blank line.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+The se95+5cond paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
 
 ### Unordered lists:
 
@@ -29,12 +28,14 @@ The second paragraph. This is placeholder text that our web designers put here t
 
 ### Ordered lists:
 
-1.  first item
-1.  second item
-1.  third item
+1. first item
+2. second item
+3. third item
 
 > Block quotes are written like so.
->
+
+![alttt](/images/uploads/pulsar-32s-pro-ref9.jpg)
+
 > They can span multiple paragraphs,
 > if you like.
 
